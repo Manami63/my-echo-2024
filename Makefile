@@ -1,4 +1,4 @@
-NAME := my-echo2024
+NAME := my-echo
 REPOSITORY := Manami63/$(NAME)
 TAG := 20240710
 GOOS := linux
